@@ -1,4 +1,4 @@
-# Ascom.Arduino MB-Roof
+# Ascom/Arduino MB-Roof
 
 ## Français
 
