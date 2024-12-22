@@ -12,3 +12,4 @@ Ascom driver for controlling a rolling astronomical observatory roof with a gate
 Compatible with ASCOM 6.6 SP2 drivers (not tested with other versions)
 The arduino code works with the driver and has been tested on Arduino Nano and Uno
 
+![mb-roof-schema](https://github.com/user-attachments/assets/e1ba77e1-34ad-4fc4-b304-eeff899510e5)
